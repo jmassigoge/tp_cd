@@ -1,0 +1,7 @@
+**.pyc
+.vscode/
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
