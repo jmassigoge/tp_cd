@@ -1,0 +1,9 @@
+*.py~
+data_set/
+.vscode/
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+
